@@ -2,7 +2,7 @@
 ### About me: 
  - An aspiring software developer with great motivation and dedication
  - I’m currently doing a master's computer science (Expected graduation date May 2024)
- - - Some final projects:
+   -Some final projects:
      - Implementation of missing data imputation with  Iterative Soft-Thresholding Algorithm  in Python (Pattern Recognition) (https://github.com/YagmurGULEC/py-soft-impute)
      - Full-stack Flask application with Postgresql to post events with prerequisites, accept participants to those events and notify them if they don't meet the requirements before deadline (https://github.com/YagmurGULEC/py-soft-impute)
 
