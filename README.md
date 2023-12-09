@@ -7,6 +7,8 @@
  - 🔭 Experience in data visualization and analysis and numerical computation with Python 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurGULEC&layout=donut-vertical)](https://github.com/YagmurGULEC/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/YagmurGULEC/count.svg)
 <!--
 **YagmurGULEC/YagmurGULEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
