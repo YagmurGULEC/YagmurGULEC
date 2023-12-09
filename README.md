@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Yagmur
-### About me: Passionate about software development. Have a academic research background in numerical modeling with Object Oriented C++. 
-- 🔭 I’m currently working on making my 
+### About me: 
+An aspiring software developer with great motivation and dedication. 
+Currently doing a master's in computer science. My expected graduation is May 2024.  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurGULEC&layout=donut-vertical)](https://github.com/YagmurGULEC/github-readme-stats)
 <!--
 **YagmurGULEC/YagmurGULEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
