@@ -5,8 +5,10 @@
  - - Some final projects:
      - Implementation of missing data imputation with  Iterative Soft-Thresholding Algorithm  in Python (Pattern Recognition) (https://github.com/YagmurGULEC/py-soft-impute)
      - Full-stack Flask application with Postgresql to post events with prerequisites, accept participants to those events and notify them if they don't meet the requirements before deadline (https://github.com/YagmurGULEC/py-soft-impute)
+     <p float="left">
  <img   width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+ </p>
  - I’m currently working on developing web applications integrating cloud technologies for high performance for hackathons on [Devpost] (https://devpost.com/YagmurGULEC).
  - Background in web development with Python and JS.  
  - 🔭 Experience in data visualization and analysis and numerical computation with Python 
@@ -14,17 +16,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurGULEC&layout=donut-vertical)](https://github.com/YagmurGULEC/github-readme-stats)
 
 
-<!--
-**YagmurGULEC/YagmurGULEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
