@@ -6,7 +6,9 @@
      - Implementation of missing data imputation with  Iterative Soft-Thresholding Algorithm  in Python (Pattern Recognition) (https://github.com/YagmurGULEC/py-soft-impute)
      - Full-stack Flask application with Postgresql to post events with prerequisites, accept participants to those events and notify them if they don't meet the requirements before deadline (https://github.com/YagmurGULEC/py-soft-impute)
 
-<div class="image-container" style="display: flex;"> 
+<div class="image-container" style="display: flex; margin: auto;
+  width: 50%;
+  padding: 10px;"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 10%; height: auto;"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"  style="width: 10%; height: auto;"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="width: 10%; height: auto;">
