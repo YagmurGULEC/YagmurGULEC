@@ -8,7 +8,7 @@
 
 <div class="image-container" style="display: flex; 
  margin: auto;
- margin-left: 10;
+ margin-left: 100;
   width: 50%;
   padding: 10px;"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="width: 10%; height: auto;"> 
