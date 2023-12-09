@@ -2,7 +2,7 @@
 ### About me: 
  - 🌱 An aspiring software developer with great motivation and dedication
  - 🌱 I’m currently doing a master's computer science (Expected graduation date May 2024)
- - 🔭 I’m currently working on developing web applications integrating cloud technologies for high performance for hackathons on Devpost.
+ - 🔭 I’m currently working on developing web applications integrating cloud technologies for high performance for hackathons on [Devpost] (https://devpost.com/YagmurGULEC).
  - 🔭 Background in web development with Python and JS.  
  - 🔭 Experience in data visualization and analysis and numerical computation with Python 
 
