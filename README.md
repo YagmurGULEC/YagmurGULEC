@@ -20,7 +20,7 @@
  - Background in web development with Python and JS.  
  - 🔭 Experience in data visualization and analysis and numerical computation with Python 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurGULEC&layout=donut-vertical)](https://github.com/YagmurGULEC/github-readme-stats)
+<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurGULEC&layout=donut-vertical)](https://github.com/YagmurGULEC/github-readme-stats)               -->
 
 
 
