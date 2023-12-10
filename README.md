@@ -1,4 +1,4 @@
-### Hi there 👋, I am Yagmur
+### Hi there 👋, I am Yagmur yagmurgulec.github.io (https://yagmurgulec.github.io/)
 ### About me: 
 <ul>
   <li>An aspiring software developer with great motivation and dedication</li>
