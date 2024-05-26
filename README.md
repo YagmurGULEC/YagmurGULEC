@@ -3,9 +3,7 @@
 <ul>
   <li>An aspiring software developer with great motivation and dedication</li>
 
-    <ul>
-      <li>Streamlit App for Estimation of the Percolation Threshold via Monte Carlo Simulation (**MLH's Month Long Hackathon**- Nov 2023) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://percolationmontecarlo.streamlit.app/)</li>
-    </ul>
+  
   </li>
 </ul>
 
