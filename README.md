@@ -4,18 +4,17 @@
   <li>An aspiring software engineer with great motivation and dedication</li>
   <li>Quick learner</li>
   <li>Currently working on cloud computing with AWS and development of image labelling software using JS and Flask </li>
-  
-  </li>
+</li>
 </ul>
+<a href="https://github.com/YagmurGULEC/flask-aws-ecr-cd-pipeline">Automated pipeline to push the image of 
+ a simple containerized Flask app to AWS ECR</a>
 ### Some of my projects: 
 <ul>
    <li><a href="https://github.com/YagmurGULEC/flask-aws-ecr-cd-pipeline">Automated pipeline to push the image of 
  a simple containerized Flask app to AWS ECR</a></li>
   <li><a href="https://github.com/YagmurGULEC/FlaskObesityRiskPredictionMLApp">Obesity Risk Prediction API endpoint with the data validation tests and Dockerfile.I used Flask</a></li>
- 
-
+</li>
   
-  </li>
 </ul>
 <div class="image-container" style="display: flex; 
  margin-right: 100;
