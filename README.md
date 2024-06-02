@@ -2,7 +2,8 @@
 ### About me: 
 <ul>
   <li>An aspiring software developer with great motivation and dedication</li>
-
+  <li>Quick learner</li>
+  <li>Currently working on cloud computing with AWS and development of image labelling software using JS and Flask </li>
   
   </li>
 </ul>
